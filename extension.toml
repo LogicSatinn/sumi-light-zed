@@ -1,5 +1,5 @@
-id = "sumi-light"
-name = "Sumi Light"
+id = "sumi-light-theme"
+name = "Sumi Light Theme"
 version = "0.0.2"
 schema_version = 1
 description = "Monochrome theme based on Sumi-e originating from Github light mode syntax highlighting."
