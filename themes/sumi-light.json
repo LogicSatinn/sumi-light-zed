@@ -8,7 +8,14 @@
       "appearance": "light",
       "style": {
         "background.appearance": "opaque",
-        "accents": ["#6f7781", "#7f8790", "#8d949c", "#9aa1a9", "#a7adb4", "#b3b8be"],
+        "accents": [
+          "#6f7781",
+          "#7f8790",
+          "#8d949c",
+          "#9aa1a9",
+          "#a7adb4",
+          "#b3b8be"
+        ],
         "border": "#e1e4e8",
         "border.variant": "#e9edf1",
         "border.focused": "#586069",
@@ -298,10 +305,10 @@
             "font_weight": null
           },
           "title": {
-            "color": "#3a4450",
+            "color": "#303a46",
             "background_color": null,
             "font_style": null,
-            "font_weight": null
+            "font_weight": 700
           },
           "type": {
             "color": "#2a3440",
